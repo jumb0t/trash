@@ -128,6 +128,14 @@ https://gist.github.com/akalankauk/513b083d9f3825a24782028ca295fdf1
 https://stackoverflow.com/questions/1995439/get-android-phone-model-programmatically-how-to-get-device-name-and-model-prog
 ```
 
+----
+
+
+```code
+https://fale.io/blog/2024/04/30/forward-all-your-traffic-with-redsocks
+```
+
+
 ```code
 https://gist.github.com/akalankauk/513b083d9f3825a24782028ca295fdf1
 ```
